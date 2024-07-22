@@ -2,7 +2,7 @@
 
 CI Name | Actions Workflow | CI Status |
 |--------|--------|--------|
-| BicepBuild | [bicepBuild.yml](./.github/workflows/bicepBuild.yml) | [![bicepBuildCI](https://github.com/zaubergluasch/opnazure/actions/workflows/bicepBuild.yml/badge.svg?branch=dev)](https://github.com/dmauser/opnazure/actions/workflows/bicepBuild.yml) 
+| BicepBuild | [bicepBuild.yml](./.github/workflows/bicepBuild.yml) | [![bicepBuildCI](https://github.com/zaubergluasch/opnazure/actions/workflows/bicepBuild.yml/badge.svg?branch=dev)](https://github.com/zaubergulasch/opnazure/actions/workflows/bicepBuild.yml) 
 
 **Deployment Wizard**
 
